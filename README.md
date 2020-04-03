@@ -1,4 +1,4 @@
-# Rough Redesigns Sketches
+# Rough Redesigns Sketches for the webpage below
 https://www.informatics.uci.edu/undergrad/bs-informatics/
 
 #### Design #1
@@ -11,3 +11,7 @@ and increase information visibility.
 #### Design #3
 Focus: Blend between design 1 and 2. The idea is we sacrifice some simplicty in exchange for more information available
 in the main page in order to reduce the amount of links the visitor must visit to find their desired info.
+
+
+#### Wireframe
+https://rhqp52.axshare.com/#id=bn1bbj&p=page_1
